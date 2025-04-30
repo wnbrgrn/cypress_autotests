@@ -1,0 +1,8 @@
+  {
+	"correct_login": "user@example.com",
+	"correct_password": "user_password",
+	"correct_login_with_uppercase":"UseR@example.com",
+	"incorrect_login": "wrong_login@example.com",
+	"incorrect_password": "incorrect_user_password",
+	"invalid_format_login": "userexample.com"
+	}
